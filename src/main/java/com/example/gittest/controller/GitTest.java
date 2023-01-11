@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("Hello hot-fit test");
         System.out.println("GitHub");
         System.out.println("SSH");
+        System.out.println("Pull Test");
     }
 }
